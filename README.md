@@ -5,6 +5,7 @@
 This technical analysis is being done to help Bobby determine the number of retiring employees per title and identify employees who are eligible to participate in a mentorship program. This will help Bobby’s manager to plan for how many of his employees are reaching retirement age and therefore, how many job positions will become available that need to be filled. 
 
 ##Results
+
 •	90,398 people are set to retire soon (unique_titles.csv)
 
 •	Employees with title “Senior Engineers” has the highest amount retiring at a high of 29,414 (retiring_titles.csv)
