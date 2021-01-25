@@ -6,8 +6,11 @@ This technical analysis is being done to help Bobby determine the number of reti
 
 ##Results
 •	90,398 people are set to retire soon (unique_titles.csv)
+
 •	Employees with title “Senior Engineers” has the highest amount retiring at a high of 29,414 (retiring_titles.csv)
+
 •	Management has the lowest amount of retiring at a low of 2 (retiring_titles.csv)
+
 •	Out of the two managers retiring, neither are eligible to become mentors for mentorship program (mentorship_eligibility.csv)
 
 ##Summary
